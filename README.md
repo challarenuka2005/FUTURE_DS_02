@@ -62,6 +62,14 @@ Matplotlib & Seaborn
 Scikit-learn
 Jupyter Notebook / Kaggle
 
+📊 Visual Insights
+
+### Top Features Influencing Churn
+![Feature Importance](10%20Features%20Influencing%20Churn.png)
+
+### Confusion Matrix
+![Confusion Matrix](Confusion Matrix.png)
+
 🚀 Project Outcome
 This project demonstrates how churn analytics can directly support:
 Revenue protection
